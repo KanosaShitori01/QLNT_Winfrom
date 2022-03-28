@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\QLNT_Winform\QLNT_Winform\bin\Debug\QLNT_Winform.exe.config
+C:\Users\Admin\source\repos\QLNT_Winform\QLNT_Winform\bin\Debug\QLNT_Winform.exe
+C:\Users\Admin\source\repos\QLNT_Winform\QLNT_Winform\bin\Debug\QLNT_Winform.pdb
+C:\Users\Admin\source\repos\QLNT_Winform\QLNT_Winform\obj\Debug\QLNT_Winform.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLNT_Winform\QLNT_Winform\obj\Debug\QLNT_Winform.Form1.resources
+C:\Users\Admin\source\repos\QLNT_Winform\QLNT_Winform\obj\Debug\QLNT_Winform.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLNT_Winform\QLNT_Winform\obj\Debug\QLNT_Winform.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLNT_Winform\QLNT_Winform\obj\Debug\QLNT_Winform.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLNT_Winform\QLNT_Winform\obj\Debug\QLNT_Winform.exe
+C:\Users\Admin\source\repos\QLNT_Winform\QLNT_Winform\obj\Debug\QLNT_Winform.pdb
+C:\Users\Admin\source\repos\QLNT_Winform\QLNT_Winform\obj\Debug\QLNT_Winform.Form2.resources
+C:\Users\Admin\source\repos\QLNT_Winform\QLNT_Winform\obj\Debug\QLNT_Winform.Form3.resources
